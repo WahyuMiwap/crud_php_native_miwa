@@ -51,3 +51,7 @@ http://localhost/Tugas-RPL-PHP-Native/
 - Semua tampilan menggunakan komponen Bootstrap seperti form, table, dan tombol.
 - Pastikan file db.php disesuaikan dengan konfigurasi server kamu.
 - Validasi form sederhana dilakukan menggunakan HTML dan PHP.
+
+### Tampilan Aplikasi
+**1. Halaman Utama (Daftar Barang):**
+![Halaman Utama](native php/dashboard_php_native.png) 
