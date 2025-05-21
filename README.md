@@ -54,4 +54,4 @@ http://localhost/Tugas-RPL-PHP-Native/
 
 ### Tampilan Aplikasi
 **1. Halaman Utama (Daftar Barang):**
-![Halaman Utama](native php/dashboard_php_native.png) 
+![Halaman Utama](https://github.com/WahyuMiwap/crud_php_native_miwa/blob/main/native%20php/dashboard_php_native.png) 
