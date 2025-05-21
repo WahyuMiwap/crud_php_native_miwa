@@ -55,3 +55,15 @@ http://localhost/Tugas-RPL-PHP-Native/
 ### Tampilan Aplikasi
 **1. Halaman Utama (Daftar Barang):**
 ![Halaman Utama](https://github.com/WahyuMiwap/crud_php_native_miwa/blob/main/native%20php/dashboard_php_native.png) 
+
+**2. mengisi barang (Menambhakan barang):**
+![tambah barang](https://github.com/WahyuMiwap/crud_php_native_miwa/blob/main/native%20php/form_add_stock_php_native.png) 
+
+**3.tampilan dashboard setelah menambahkan barang (dashboard baarang):**
+![daashboard barang](https://github.com/WahyuMiwap/crud_php_native_miwa/blob/main/native%20php/after_add_stock_php_native.png) 
+
+**4. menghapus barang (hapus barang):**
+![hapus barang](https://github.com/WahyuMiwap/crud_php_native_miwa/blob/main/native%20php/delete_php_native.png) 
+
+**5. Mengedit barang (Edit barang):**
+![Edit barang](https://github.com/WahyuMiwap/crud_php_native_miwa/blob/main/native%20php/edit_stock_php_native.png) 
